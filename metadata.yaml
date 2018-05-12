@@ -22,6 +22,8 @@ creator:
 description: A biography of Geronimo, chief of the southern Chiricahua band of Apache
   Indians, who rose to leadership through the ranks and [who] plundered the Arizona
   countryside for many years before accepting the white man's treaty.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41630#The-Story-of-Geronimo
 gutenberg_issued: '2012-12-15'
 gutenberg_type: Text
 identifiers:
